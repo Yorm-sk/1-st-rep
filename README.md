@@ -1,2 +1,4 @@
 # 1-st-rep
-just stidying
+just studying
+Hello!
+What have i done?
